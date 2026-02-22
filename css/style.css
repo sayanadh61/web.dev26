@@ -1,8 +1,8 @@
 html {
     /* font-family: sans-serif; */
     /* font-style: normal; */
-    background-color: rgb(184, 120, 184);
-    color: rgb(43, 43, 188);
+    background-color: rgb(233, 164, 191);
+    color: rgb(144, 43, 188);
 }
 
 li {
@@ -14,7 +14,7 @@ font-size: larger;
 }
 
 p {
-    color: rgb(28, 28, 144)
+    color: rgb(144, 28, 119)
 }
     .bold {
         font-weight:bold
