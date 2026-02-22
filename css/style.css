@@ -1,8 +1,8 @@
 html {
     /* font-family: sans-serif; */
     /* font-style: normal; */
-    background-color: purple;
-    color: darkblue;
+    background-color: rgb(183, 129, 183);
+    color: rgb(36, 36, 211);
 }
 
 li {
@@ -10,7 +10,7 @@ li {
 }
 
 p {
-    color: darkblue
+    color: rgb(42, 42, 152)
 }
     .bold {
         font-weight:bold
