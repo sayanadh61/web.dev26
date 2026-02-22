@@ -1,0 +1,19 @@
+html {
+    /* font-family: sans-serif; */
+    /* font-style: normal; */
+    background color: lightblue;
+    color: darkblue;
+}
+
+li {
+    font-family: monospace;
+}
+
+p {
+    color: darkblue
+}
+    .bold {
+        font-weight:bold
+    }
+
+    
