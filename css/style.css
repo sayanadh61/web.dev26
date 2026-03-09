@@ -21,4 +21,67 @@ p {
         font-weight:bold
     }
 
+    /* Basic page setup */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header and footer */
+header,
+footer {
+  padding: 1rem;
+  border: 2px solid black;
+  margin: 1rem;
+}
+
+/* Navigation */
+nav ul {
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+/* Main container centered with margin: auto */
+main {
+  width: 80%;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 3px solid black;
+}
+
+/* Section boxes */
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 2px solid gray;
+}
+
+/* Paragraph boxes */
+p {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+/* Nested box example for box-sizing */
+.parent-box {
+  width: 300px;
+  border: 2px solid black;
+  margin: 2rem 0;
+  padding: 0.5rem;
+}
+
+.child-box {
+  width: 100%;
+  padding: 1rem;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
     
